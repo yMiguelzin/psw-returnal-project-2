@@ -27,10 +27,6 @@ Este projeto foi desenvolvido para gerenciar um diário online utilizando Python
 
 <br>
 
-<p align="center">
-  <img src="diario.png" alt="Diário Online">
-</p>
-
 ## Tecnologias
 
 As seguintes tecnologias foram utilizadas no desenvolvimento do projeto:
