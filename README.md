@@ -1,6 +1,6 @@
-# 🪂 Diário online Full-Stack com Python e Django | Projeto 2
-
-<p align="center">
+# psw-returnal-project-2
+🪂 Diário online Full-Stack com Python e Django | Projeto 2
+<p>
   <img src="https://img.shields.io/badge/made%20by-MIGUEL%20PRETO-04D361?style=flat-square">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/yMiguelzin/psw-returnal-project-2?color=04D361&style=flat-square">
   <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/yMiguelzin/psw-returnal-project-2?color=04D361&style=flat-square">
