@@ -52,12 +52,12 @@ Antes de começar, você precisa ter o Python 3.x instalado no seu sistema. Voc�
 
 1. **Clone o repositório**:
 
-   Abra seu terminal e clone o repositório do projeto:
+Abra seu terminal e clone o repositório do projeto:
 
-   ```bash
-   git clone https://github.com/yMiguelzin/diario-online-fullstack.git
+  ```bash
+  git clone https://github.com/yMiguelzin/diario-online-fullstack.git
 
-   ```
+ ```
    
 2. **Instale as dependências**:
 
