@@ -28,7 +28,7 @@ Este projeto foi desenvolvido para gerenciar um diário online utilizando Python
 <br>
 
 <p align="center">
-  <img src="diario.jpg" alt="Diário Online">
+  <img src="diario.png" alt="Diário Online">
 </p>
 
 ## Tecnologias
