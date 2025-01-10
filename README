@@ -1,0 +1,11 @@
+bibliotecas
+pip install django
+pip install pillow
+
+configuração do django sql
+python manage.py makemigrations
+python manage.py migrate
+
+rodar o servidor 
+
+python manage.py runserver
