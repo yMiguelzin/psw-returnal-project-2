@@ -25,6 +25,10 @@
 
 Este projeto foi desenvolvido para gerenciar um diário online utilizando Python e Django. O objetivo é permitir que os usuários registrem suas atividades diárias de forma organizada, podendo criar, editar, listar e excluir entradas no diário, além de visualizar um histórico de registros. O projeto utiliza Django como framework principal para o desenvolvimento da aplicação web e foi pensado para fornecer uma interface simples e intuitiva para os usuários.
 
+<p align="center">
+  <img src="diario.png" alt="Diário Online">
+</p>
+
 <br>
 
 ## Tecnologias
