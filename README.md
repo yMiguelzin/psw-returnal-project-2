@@ -80,12 +80,11 @@ Após a criação do venv vamos ativa-lo:
 
   ```bash
   #Ativar
-  #
-  - Linux
+
+  #Linux
   source venv/bin/activate
   
-  #
-  - Windows
+  #Windows
   venv\Scripts\Activate
 
   # Caso algum comando retorne um erro de permissão execute o código e tente novamente:
