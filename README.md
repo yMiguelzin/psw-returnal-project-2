@@ -63,8 +63,6 @@ Antes de começar, você precisa ter o Python 3.x instalado no seu sistema. Voc�
   Navegue até a pasta do projeto e crie/ative um ambiente virtual:
 
   ```bash
-  Copiar código
-  
   # Criar
     
   #Linux
@@ -97,6 +95,8 @@ Após a criação do venv vamos ativa-lo:
   Navegue até a pasta do projeto e instale as dependências necessárias:
 
   ```bash
+  #Dependências
+
   pip install django
   pip install pillow
 
