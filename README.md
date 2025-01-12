@@ -58,8 +58,42 @@ Antes de começar, você precisa ter o Python 3.x instalado no seu sistema. Voc�
   git clone https://github.com/yMiguelzin/diario-online-fullstack.git
 
   ```
-   
-2. **Instale as dependências**:
+2. **Ative o ambiente virtual (opcional, mas recomendado)**:
+
+  Navegue até a pasta do projeto e crie/ative um ambiente virtual:
+
+  ```bash
+  Copiar código
+  
+  # Criar
+    
+  #Linux
+  python3 -m venv venv
+    
+  #Windows
+  python -m venv venv
+  ```
+
+<br>
+
+Após a criação do venv vamos ativa-lo:
+
+  ```bash
+  #Ativar
+  #
+  - Linux
+  source venv/bin/activate
+  
+  #
+  - Windows
+  venv\Scripts\Activate
+
+  # Caso algum comando retorne um erro de permissão execute o código e tente novamente:
+  Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
+
+  ```
+
+3. **Instale as dependências**:
 
   Navegue até a pasta do projeto e instale as dependências necessárias:
 
@@ -69,7 +103,7 @@ Antes de começar, você precisa ter o Python 3.x instalado no seu sistema. Voc�
 
   ```
 
-3. **Configuração do Banco de Dados**:
+4. **Configuração do Banco de Dados**:
 
   Agora, configure o banco de dados. Execute os comandos abaixo para criar as migrações necessárias e aplicá-las ao banco de dados:
   
@@ -78,7 +112,7 @@ Antes de começar, você precisa ter o Python 3.x instalado no seu sistema. Voc�
   python manage.py migrate
 
   ```
-4. **Execute o Servidor Django**:
+5. **Execute o Servidor Django**:
 
   Inicie o servidor de desenvolvimento para rodar a aplicação localmente:
   
